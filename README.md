@@ -2,6 +2,8 @@
 
 A Work in progress for a Zelda like level creator.
 
+http://jdiwnab.github.io/LegendOfMaker/
+
 ## Goals
 * Be able to play a Custom Zelda-like games
 * Be able to create such games
